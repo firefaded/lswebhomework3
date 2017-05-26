@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Kari Schendel
 
-I like to:
+I like to: learn programming
 
-I'm learning:
+I'm learning: HTML, CSS and JavaScript
 
 ```
 
